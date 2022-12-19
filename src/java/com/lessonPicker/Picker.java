@@ -1,5 +1,4 @@
-package src.java;
-
+package src.java.com.lessonPicker;
 import java.util.Random;
 
 public class Picker {

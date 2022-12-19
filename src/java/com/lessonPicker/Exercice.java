@@ -1,5 +1,4 @@
-package src.java;
-
+package src.java.com.lessonPicker;
 public class Exercice {
     public String name;
     private String link;

@@ -1,4 +1,4 @@
-package src.java;
+package src.java.com.lessonPicker;
 import java.util.ArrayList;
 import java.util.List;
 

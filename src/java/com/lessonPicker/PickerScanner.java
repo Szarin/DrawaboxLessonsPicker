@@ -1,4 +1,4 @@
-package src.java;
+package src.java.com.lessonPicker;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 

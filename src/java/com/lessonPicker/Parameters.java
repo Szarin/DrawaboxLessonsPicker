@@ -1,4 +1,4 @@
-package src.java;
+package src.java.com.lessonPicker;
 public class Parameters {
     public int[] selectionNumber;
     public int[] numbersThreshold;
